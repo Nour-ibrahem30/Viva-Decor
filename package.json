@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.7",
+    "jest": "^30.0.5"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
